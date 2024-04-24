@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="def" fetch="https://github.com" review="" />
-    <project name="ojles/dotfiles" path="dotfi" revision="master" remote="def" />
+    <project name="ojles/uni" path="univer" revision="master" remote="def" />
 </manifest>
